@@ -1,4 +1,4 @@
-mgui = mgui or {}
+mgui = {}
+mgui.newver = "1.0.0"
+mgui.newvertype = "Stable"
 mgui.data = "Found new update! Update your script now!"
-ver = "1.0.0"
-vertype = "Stable"
