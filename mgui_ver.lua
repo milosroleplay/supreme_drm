@@ -7,5 +7,5 @@ function mgui.webPrint( color, ... )
 end
 function mgui.UpdatedScript(...)
 	Cool = Color(100,100,255)
-	mgui.webPrint("Added color: Cool (100,100,255)")
+	mgui.webPrint(Cool,"Added color: Cool (100,100,255)")
 end
