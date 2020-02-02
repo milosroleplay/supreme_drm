@@ -8,5 +8,8 @@ function webPrint( color, ... )
 	return MsgC(Color(170,170,170),"[",Color(100,255,100),"Update Checker",Color(170,170,170),"] ",color,...,color_white,"\n")
 end
 gl_mltr.newversion = "1.0.1"
-gl_mltr.newversion_txt = "_Версия:_СТАБИЛЬНАЯ_Тип:_А_"
-gl_mltr.sitype = "Зетта_1"
+surface.CreateFont('font_error_hud', {
+    font = 'Default',
+    size = 20,
+    weight = 600,
+} )
