@@ -1,4 +1,5 @@
 mgui = {}
+mg = {}
 gl_mltr = {}
 site = {}
 aUd = {}
