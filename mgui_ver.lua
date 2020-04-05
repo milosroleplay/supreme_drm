@@ -14,4 +14,4 @@ aUd.newversion = "1.0.0"
 author_script = "Dancing In The Dark"
 author_script_steam = "http://steamcommunity.com/profiles/76561198073649903"
 
-mg.news = "Здесь должны быть новости, но так как сервер только открылся, мы можем вам посоветовать хорошо провести время)"
+mg.news = "Обновление 1.0.1:\n Добавлена система новостей"
