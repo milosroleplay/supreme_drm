@@ -12,3 +12,5 @@ gl_mltr.newversion = "1.1.0"
 aUd.newversion = "1.0.0"
 author_script = "Dancing In The Dark"
 author_script_steam = "http://steamcommunity.com/profiles/76561198073649903"
+
+news_txt = "Здесь должны быть новости, но так как сервер только открылся, мы можем вам посоветовать хорошо провести время)"
