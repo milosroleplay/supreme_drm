@@ -1,0 +1,3 @@
+VERSION = {}
+VERSION.ORG1 = 041
+VERSION.ORG1.AUTHOR = "Little Flame"
