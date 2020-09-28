@@ -1,10 +1,12 @@
 es.news = {}
-es.news[1] = {
+es.news["last"] = {
   image = "https://i.imgur.com/Xd2Ueyg.jpg",
   title = "Запуск",
-  desc = [[Запускаем наш сервер!]],
+  desc = [[Последняя новость! 
+  Сервер в стадии ОБТ!
+  Успейте получить бонусы!]],
 }
-es.news[2] = {
+es.news["notlast_1"] = {
   image = "https://i.imgur.com/Xd2Ueyg.jpg",
   title = "Запуск",
   desc = [[Запускаем наш сервер!]],
