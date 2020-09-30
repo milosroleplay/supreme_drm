@@ -1,6 +1,6 @@
 es.news = {}
 es.news["last"] = {
-  image = "https://i.imgur.com/Xd2Ueyg.jpg",
+  image = "https://i.imgur.com/WdwlDpi.png",
   title = "Обновление 1.0.1",
   desc = [[• Сервер был выведен из стадии ЗБТ и был переведён в ОБТ.
   - Обновлены элементы игрового интерфейса (Hud, F4, Tab)
@@ -24,7 +24,7 @@ es.news["last"] = {
    > Также получай в награду монеты за поднятый уровень! (!lvl)]],
 }
 es.news["notlast_1"] = {
-  image = "https://i.imgur.com/Xd2Ueyg.jpg",
+  image = "https://i.imgur.com/AxmL4cO.png",
   title = "Обновление 1.0.0 (Запуск ЗБТ)",
   desc = [[Запуск нашего сервера.
   - ЗБТ
